@@ -58,6 +58,10 @@ Hey there, I’m **David Christianto**. I’m originally from Indonesia but curr
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 
 - **Databases & Data Tools**  
+  ![Pandas Badge](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+  ![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)  
+  ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+  ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
   ![MySQL Workbench](https://img.shields.io/badge/-MySQL_Workbench-4479A1?logo=mysql&logoColor=white&style=flat-square)
   ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
   ![Metabase](https://img.shields.io/badge/-Metabase-lightgrey?style=flat-square)
