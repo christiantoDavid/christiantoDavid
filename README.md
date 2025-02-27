@@ -38,11 +38,15 @@ Hey there, I’m **David Christianto**. I’m originally from Indonesia but curr
   - Intended for **individuals, companies, and organizations** to streamline decision‐making with clear, visual data insights.
 
 - **Academic Projects** (Highlights)  
-  - **Web Development [Django, React Native, PostgreSQL]**: Built a real‐time flood warning system (SiBanjir) integrating government API data and user‐generated reports.  
+  - **Web Development [Django, React Native, PostgreSQL]**: Built a real‐time flood warning system (SiBanjir) integrating government API data and user‐generated reports.
+  - **AgroSphere Web Development [Django]**: Developed a web platform designed to assist farmers in managing their fields more efficiently while also providing a community-driven marketplace to promote and sell their products
   - **Machine Learning & AI**: Worked on supervised and unsupervised learning projects (classification, regression, clustering) using **Python** and **scikit‐learn**.  
   - **Computer Graphics**: Created 3D simulations with OpenGL and Pygame, implementing advanced rendering like Phong lighting.
 
 *(For more details, see pinned repositories or scroll through my repos!)*
+
+**Deployment Links:**
+- ***AgroSphere*** *https://group2-midterm-project-davidchristiantos-projects.vercel.app/*
 
 ---
 
